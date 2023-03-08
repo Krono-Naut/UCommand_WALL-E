@@ -214,6 +214,22 @@ int main(int argc, const char * argv[]) {
     " 0: 終わり\n"
     "番号を選んでください>";
     
+     /*
+     char* menuStr = "MENU \n"
+     " 1: Switch On\n"
+     " 2: Move Forward\n"
+     " 3: Turn Left\n"
+     " 4: Turn Back\n"
+    " 5: Spin Around\n"
+    " 6: Various Sounds\n"
+    " 7: Dance\n"
+    " 8: Get Up\n"
+    " 9: Talk\n"
+    "10: Robot Sound\n"
+    " 0: End\n"
+    "Choose a number>";
+     */
+ 
     int command;
     
     while (1){
